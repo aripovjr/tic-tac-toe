@@ -1,0 +1,7 @@
+.signButton {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #111;
+  background-color: #fff;
+  font-size: 50px;
+}
